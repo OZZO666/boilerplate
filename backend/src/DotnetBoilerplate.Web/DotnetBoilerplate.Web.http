@@ -1,0 +1,6 @@
+@DotnetBoilerplate.Web_HostAddress = http://localhost:5150
+
+GET {{DotnetBoilerplate.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
